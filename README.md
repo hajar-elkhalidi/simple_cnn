@@ -30,3 +30,8 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook cnn_simple.ipynb
 ```
+
+You can run this notebook directly in your browser using:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wLVPPr6leHP1TN7plZzV-8-x9gMHX3zv?usp=sharing)  
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/hajarae/cnn-simple)
